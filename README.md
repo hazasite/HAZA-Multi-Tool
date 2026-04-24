@@ -52,3 +52,23 @@ Manage your GitHub repositories without ever touching the command line.
    ```bash
    cd haza-multi-tool
 3.Run the application executable (HAZA_MULTI-TOOL.cmd) to launch the dashboard.
+
+---
+
+## 👨‍💻 About the Author
+
+**Janma Hasarel**
+*Full Stack Developer | Founder of HAZA*
+
+This tool was built to simplify everyday tasks and improve productivity for everyone. A special shoutout to the foundations built at Richmond College and the skills honed through the KD Jayakody (nas.io/kdj) community. 
+
+---
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
