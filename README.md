@@ -50,7 +50,7 @@ Manage your GitHub repositories without ever touching the command line.
    git clone [https://github.com/YourUsername/haza-multi-tool.git](https://github.com/YourUsername/haza-multi-tool.git)
 2. Navigate to the directory:
    ```bash
-   cd haza multi-tool
+   cd "haza multi-tool"
 3.Run the application executable (HAZA MULTI-TOOL.cmd) to launch the dashboard.
 
 ---
