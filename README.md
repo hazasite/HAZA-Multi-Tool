@@ -47,7 +47,7 @@ Manage your GitHub repositories without ever touching the command line.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/haza-multi-tool.git](https://github.com/YourUsername/haza-multi-tool.git)
+   git clone https://github.com/hazasite/HAZA-Multi-Tool.git
 2. Navigate to the directory:
    ```bash
    cd "haza multi-tool"
