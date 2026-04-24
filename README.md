@@ -60,7 +60,7 @@ Manage your GitHub repositories without ever touching the command line.
 **Janma Hasarel**
 *Full Stack Developer | Founder of HAZA*
 
-This tool was built to simplify everyday tasks and improve productivity for everyone. A special shoutout to the foundations built at Richmond College and the skills honed through the KD Jayakody (nas.io/kdj) community. 
+This tool was built to simplify everyday tasks and improve productivity for everyone. A special shoutout to the foundations built at Richmond College
 
 ---
 
